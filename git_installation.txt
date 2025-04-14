@@ -1,6 +1,7 @@
 Git Installation Guide for Windows  
 
 1. Download Git from https://git-scm.com/.  
+2. Run the downloaded installer file.
 3. Accept the license agreement and click Next.
 4. Choose the installation directory or use the default and click Next.  
 5. Select components to install and click Next.  
